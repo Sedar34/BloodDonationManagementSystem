@@ -1,0 +1,4 @@
+22266	rukundo	rwamagana	48	male	positive	
+26689	gakiza	ruhango	32	female	negative	
+36589	musoni	nyanza	41	male	positive	
+54589	ikirezi	nyagatare	25	female	negative	
